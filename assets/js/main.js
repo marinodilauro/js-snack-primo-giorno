@@ -14,3 +14,10 @@ Dichiara una costante chiamata PI e assegnale il valore di 3.14. Stampa il valor
 
 const pi = 3.14;
 console.log(pi);
+
+/*
+Esercizio 2/B
+Dichiara una costante chiamata PI e assegnale il valore di 3.14. Stampa il valore della costante in console.
+*/
+pi = 3.1416;
+console.log(pi);
