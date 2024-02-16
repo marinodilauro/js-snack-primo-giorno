@@ -35,3 +35,15 @@ Esercizio 2/C
 const radius = 8;
 const circle = radius * 2 * pi;
 console.log(circle);
+
+/*
+Esercizio 3
+- Dichiara una variabile chiamata name e assegnale il valore "Carlo".
+- Successivamente, modifica il valore della variabile in "Marco".
+- Stampa il nuovo valore in console.
+*/
+
+let name = "Carlo";
+name = "Marco";
+console.log(name);
+
